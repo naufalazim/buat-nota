@@ -27,6 +27,14 @@ Buat Nota is a user-friendly and versatile task management application designed 
    ```shell
    git clone https://github.com/yourusername/todo-app.git
 
+2. Install npm
+    ```shell
+   npm install
+    
+3. Run npm
+    ```shell
+   npm run dev
+
 
 ## Screenshots
 
