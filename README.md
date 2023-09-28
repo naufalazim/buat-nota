@@ -25,7 +25,7 @@ Buat Nota is a user-friendly and versatile task management application designed 
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/yourusername/todo-app.git
+   git clone https://github.com/yourusername/todo-app.git](https://github.com/naufalazim/buat-nota.git
 
 2. Install npm
     ```shell
