@@ -12,7 +12,6 @@ Buat Nota is a user-friendly and versatile task management application designed 
 - **Search and Filter**: Easily search for specific tasks and apply filters to find what you need.
 - **User Authentication**: Securely log in to access your tasks from anywhere.
 - **Responsive Design**: Use the app seamlessly on both desktop and mobile devices.
-- **Cross-Browser Compatibility**: Compatible with all major web browsers.
 
 ## Technologies Used
   - Nextjs
