@@ -21,13 +21,13 @@
   },
   "devDependencies": {
     "@types/node": "latest",
-    "@types/react": "latest",
+    "@types/react": "18.2.25",
     "@types/react-dom": "latest",
     "autoprefixer": "latest",
     "eslint": "latest",
     "eslint-config-next": "latest",
     "postcss": "latest",
     "tailwindcss": "latest",
-    "typescript": "latest"
+    "typescript": "5.2.2"
   }
 }
