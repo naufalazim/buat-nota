@@ -38,8 +38,8 @@ Buat Nota is a user-friendly and versatile task management application designed 
 
 
 ## Reference 
-
-
+<h2>Login System</h2>
+- https://clerk.com/docs/quickstarts/nextjs
 
 
 
