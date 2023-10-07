@@ -32,14 +32,14 @@ Buat Nota is a user-friendly and versatile task management application designed 
     ```shell
    npm run dev
 
+## Reference 
+<h5>Login System</h5>
+- https://clerk.com/docs/quickstarts/nextjs
+
 
 ## Screenshots
 
 
-
-## Reference 
-<h2>Login System</h2>
-- https://clerk.com/docs/quickstarts/nextjs
 
 
 
